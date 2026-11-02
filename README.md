@@ -1,77 +1,117 @@
-<h1>Vantuil Plaster Junior</h1>
+<h1 align="center">Olá, eu sou Vantuil Plaster Junior</h1>
 
-<p><samp>FULL STACK · IA APLICADA · SISTEMAS EMBARCADOS</samp></p>
+<p align="center">
+  <img src="assets/intro.svg" width="680" alt="Desenvolvimento full stack · Inteligência artificial aplicada · Sistemas embarcados e IoT">
+</p>
 
-<p>Desenvolvo produtos da concepção à operação.<br>
-Web, APIs, nuvem e software conectado ao mundo físico.</p>
+<p align="center">
+  Construo produtos da ideia à operação.<br>
+  Criador da <a href="https://usefyora.com"><strong>FYORA</strong></a> — SaaS de agendamento e gestão.
+</p>
 
-<p>
-  <a href="https://usefyora.com">FYORA ↗</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/VantuilPJr?tab=repositories">Repositórios</a>
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> &nbsp; · &nbsp;
+  <a href="#fyora">FYORA</a> &nbsp; · &nbsp;
+  <a href="#projetos">Projetos</a> &nbsp; · &nbsp;
+  <a href="#tecnologias">Tecnologias</a>
 </p>
 
 <br>
 
-## Produto em destaque
+## Sobre mim
 
-<h3><a href="https://usefyora.com">FYORA ↗</a></h3>
+Desenvolvo aplicações web, APIs e sistemas conectados a hardware. Meu trabalho vai da experiência do usuário às integrações, ao banco de dados e à publicação em nuvem.
 
-<p><sub>SAAS PRÓPRIO &nbsp; / &nbsp; MVP EM PRODUÇÃO</sub></p>
-
-Agendamento e gestão para profissionais e negócios com hora marcada. O cliente agenda, remarca e cancela pelo link; o estabelecimento acompanha tudo pelo painel, respeitando as regras do atendimento.
-
-Desenvolvi o produto de ponta a ponta: experiência **mobile first**, frontend, APIs, banco de dados, integração de pagamentos e operação em nuvem.
-
-<p><sub>TypeScript · React · Next.js · NestJS · PostgreSQL · Prisma · Google Cloud · Asaas</sub></p>
-
-**Código proprietário e privado.** O MVP por link está publicado. A evolução com OpenAI e WhatsApp permanece em homologação.
+Na **FYORA**, conduzi o desenvolvimento do produto de ponta a ponta, com abordagem **mobile first**, pagamentos e operação em produção. Também construo projetos de IA aplicada, Android, IoT e estruturas de dados.
 
 <br>
 
-## Projetos selecionados
+<h2 align="center">FYORA</h2>
+<p align="center"><strong>Meu principal projeto · SaaS proprietário</strong></p>
 
-<p>
-  <strong><a href="https://github.com/VantuilPJr/CrySense">CrySense ↗</a></strong><br>
-  Protótipo de monitoramento infantil com classificação experimental de áudio, visão computacional, sensores e app Android.<br>
-  <sub>Python · FastAPI · scikit-learn · Kotlin · Raspberry Pi</sub>
+<p align="center">
+  Agendamento por link, autoatendimento e gestão em um só produto.<br>
+  O cliente escolhe serviço, profissional e horário.<br>
+  O estabelecimento acompanha a agenda e a gestão pelo painel.
 </p>
 
-<p>
-  <strong><a href="https://github.com/VantuilPJr/ReqAudit">ReqAudit ↗</a></strong><br>
-  Auditoria de requisitos e gestão de não conformidades, com responsáveis, prazos e histórico.<br>
-  <sub>React · TypeScript · Express · SQLite &nbsp; / &nbsp; <a href="https://req-audit.vercel.app">Demo</a></sub>
+<p align="center">
+  <code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Google Cloud</code> <code>Asaas</code>
 </p>
 
-<p>
-  <strong><a href="https://github.com/VantuilPJr/AcquaGuard">AcquaGuard ↗</a></strong><br>
-  Automação de aquários com sensores, regras de controle e painel web local.<br>
-  <sub>ESP32 · C++ · Arduino · IoT</sub>
-</p>
+<p align="center"><a href="https://usefyora.com"><strong>Conheça a FYORA ↗</strong></a></p>
 
-<p>
-  <strong><a href="https://github.com/VantuilPJr/Dugeons-Cats">Dungeons &amp; Cats ↗</a></strong><br>
-  Grafos, pilhas, filas e listas encadeadas aplicados à geração de mapas e às mecânicas de um jogo 2D.<br>
-  <sub>C++17 · raylib · CMake</sub>
-</p>
+<p align="center"><sub>MVP por link em produção · IA e WhatsApp em homologação<br>Código fechado: o repositório permanece privado.</sub></p>
 
 <br>
 
-## Outras experiências
+## Projetos
 
-[Gestão Escolar](https://github.com/VantuilPJr/gestaoEscolar) · [CrySenseAI](https://github.com/VantuilPJr/CrySenseAI) · [Apoio Escolar](https://github.com/VantuilPJr/plataforma_apoio_escolar) · [Voilà Voyages](https://github.com/VantuilPJr/agenciaViagens)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/VantuilPJr/CrySense">CrySense ↗</a></h3>
+<p>Protótipo de monitoramento infantil com classificação experimental de áudio, visão computacional, sensores e aplicativo Android.</p>
+<p><sub>Python · FastAPI · scikit-learn · Kotlin · Raspberry Pi</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/VantuilPJr/ReqAudit">ReqAudit ↗</a></h3>
+<p>Auditoria de requisitos e gestão de não conformidades, com responsáveis, prazos, perfis de acesso e histórico.</p>
+<p><sub>React · TypeScript · Express · SQLite</sub></p>
+<p><a href="https://req-audit.vercel.app">Ver demonstração ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/VantuilPJr/AcquaGuard">AcquaGuard ↗</a></h3>
+<p>Automação de aquários com sensores, regras de controle, relés e painel web local.</p>
+<p><sub>ESP32 · C++ · Arduino · IoT</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/VantuilPJr/Dugeons-Cats">Dungeons &amp; Cats ↗</a></h3>
+<p>Estruturas de dados aplicadas à geração de mapas, navegação e inventário em um jogo 2D.</p>
+<p><sub>C++17 · raylib · CMake</sub></p>
+</td>
+</tr>
+</table>
 
-Trabalho com desenvolvimento full stack, integrações, IA aplicada e sistemas embarcados. Uso IA como apoio à construção e à revisão, com validação dos resultados e atenção à manutenção do produto.
+<details>
+<summary>Mais projetos</summary>
+
+- [Gestão Escolar](https://github.com/VantuilPJr/gestaoEscolar) — aplicação desktop em Python/Tkinter.
+- [CrySenseAI](https://github.com/VantuilPJr/CrySenseAI) — implementação ESP32 do protótipo CrySense.
+- [Apoio Escolar](https://github.com/VantuilPJr/plataforma_apoio_escolar) — aplicação acadêmica em PHP/MySQL.
+- [Voilà Voyages](https://github.com/VantuilPJr/agenciaViagens) — interface em HTML, CSS e JavaScript.
+
+</details>
+
+<br>
+
+<h2 align="center">Tecnologias</h2>
+
+<h4 align="center">Frontend</h4>
+<p align="center"><img src="assets/frontend.svg" height="52" alt="TypeScript, JavaScript, React e Next.js"></p>
+
+<h4 align="center">Backend e dados</h4>
+<p align="center"><img src="assets/backend.svg" height="52" alt="Node.js, NestJS, Python e PostgreSQL"></p>
+
+<h4 align="center">Nuvem e ferramentas</h4>
+<p align="center"><img src="assets/cloud.svg" height="52" alt="Google Cloud, Docker e Prisma"></p>
+
+<h4 align="center">Mobile e sistemas embarcados</h4>
+<p align="center"><img src="assets/embedded.svg" height="52" alt="C++, Arduino, Raspberry Pi e Kotlin"></p>
 
 <br>
 
 <details>
 <summary><strong>English summary</strong></summary>
 
-<br>
-
 I build full-stack products, from concept to deployment. I created **FYORA**, a proprietary scheduling SaaS with a mobile-first interface, APIs, PostgreSQL, payment integration and cloud operations.
 
-The link-based MVP is live; AI-assisted WhatsApp service is still in development. **FYORA’s source code remains private.** My public work also explores audio classification, computer vision, Android, IoT and C++ data structures.
+The link-based MVP is live. AI-assisted WhatsApp service is still in development; **FYORA’s source code remains private**. My public projects explore audio classification, computer vision, Android, IoT and data structures.
 
 </details>
+
+<br>
+
+<p align="center"><a href="https://github.com/VantuilPJr?tab=repositories">Explorar repositórios</a> &nbsp; · &nbsp; <a href="https://usefyora.com">usefyora.com</a></p>
