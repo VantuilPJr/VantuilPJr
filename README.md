@@ -1,57 +1,109 @@
-# Vantuil Plaster Junior
+<div align="center">
 
-**Desenvolvimento full stack · Inteligência artificial aplicada · Sistemas embarcados**
+![Vantuil Plaster Junior — Da ideia ao produto. Full stack, inteligência artificial aplicada e sistemas embarcados.](assets/portfolio-header.png)
 
-Desenvolvo produtos que conectam uma necessidade real à implementação e à operação. Meu trabalho reúne aplicações web, APIs, bancos de dados, integrações, testes e infraestrutura em nuvem, além de projetos de IA, Android e IoT.
+[**FYORA**](#produto-principal--fyora) · [**Projetos**](#projetos-em-destaque) · [**Tecnologias**](#tecnologias-e-áreas-de-atuação) · [**English**](#english-summary)
 
-Meu principal projeto é a **FYORA**, um SaaS de agendamento e gestão que desenvolvi da concepção à publicação. Também exploro aprendizado de máquina aplicado a áudio, visão computacional e software conectado a hardware.
+</div>
 
-[Conheça a FYORA](https://usefyora.com) · [Projetos públicos](https://github.com/VantuilPJr?tab=repositories)
+Desenvolvo aplicações web, APIs e sistemas conectados a hardware. Gosto de acompanhar o caminho completo: entender o problema, construir a solução, colocar no ar e evoluir o produto.
 
-## Projeto principal — FYORA
+Sou o criador da **FYORA**, meu principal projeto: um SaaS que desenvolvi da concepção à operação. Meu portfólio também reúne projetos de inteligência artificial aplicada, Android, IoT e estruturas de dados.
 
-**Um produto completo para profissionais e negócios com hora marcada.**
+## Produto principal — FYORA
 
-O cliente escolhe serviço, profissional e horário em uma página pública. O estabelecimento acompanha a agenda e a gestão do negócio no painel. O produto publicado inclui autoatendimento por link para remarcação e cancelamento, respeitando as regras do agendamento.
+[![FYORA — SaaS de agendamento e gestão. Produto próprio, mobile first, desenvolvido de ponta a ponta. MVP em produção.](assets/fyora-feature.png)](https://usefyora.com)
 
-Minha atuação abrange:
+Uma plataforma para profissionais e negócios com hora marcada. O cliente escolhe serviço, profissional e horário em uma página pública; o estabelecimento acompanha os agendamentos e a gestão pelo painel. O autoatendimento permite remarcar e cancelar pelo link, respeitando o prazo do atendimento.
 
-- Concepção do produto, regras de negócio e interface responsiva com abordagem mobile first.
-- Frontend em React/Next.js e APIs em TypeScript/NestJS.
-- Persistência em PostgreSQL, integração com gateway de pagamento e autenticação.
-- Publicação e manutenção em nuvem, testes, monitoramento e cópias de segurança.
-- Desenvolvimento e testes de atendimento com OpenAI e WhatsApp, em uma frente separada do MVP por link.
+| Produto e experiência | Engenharia e operação |
+| :--- | :--- |
+| Concepção do MVP e regras de negócio | Frontend React/Next.js e APIs NestJS |
+| Interface responsiva com abordagem **mobile first** | PostgreSQL, Prisma e autenticação |
+| Agenda, profissionais, serviços e gestão financeira | Integração com gateway de pagamento Asaas |
+| Agendamento e autoatendimento por link | Publicação em nuvem, testes, monitoramento e backups |
 
-**Estado do produto:** MVP por link em produção. O atendimento com IA permanece em homologação; a integração WhatsApp está em preparação restrita para aprovação do aplicativo na Meta. Não apresento essa etapa como IA disponível a todos os clientes ou como certificação da Meta.
+**Em produção:** o MVP de agendamento por link. **Em homologação:** a evolução do atendimento com OpenAI e WhatsApp; essa etapa ainda não está disponível de forma geral.
 
-**Código proprietário:** a FYORA é um SaaS comercial de código fechado. Seu repositório permanece privado; este perfil apresenta somente informações públicas do produto.
+**SaaS proprietário, de código fechado.** O repositório da FYORA é privado. Aqui apresento apenas o produto e suas tecnologias, sem divulgar código ou dados internos.
 
-**Stack:** TypeScript · React · Next.js · NestJS · PostgreSQL · Prisma · Google Cloud Run · Cloudflare · Asaas
+**[Conhecer a FYORA →](https://usefyora.com)**
 
 ## Projetos em destaque
 
-| Projeto | Problema e entrega | Tecnologias |
-| --- | --- | --- |
-| [CrySense](https://github.com/VantuilPJr/CrySense) | Protótipo de monitoramento infantil com classificação de áudio em duas etapas, sensores, vídeo e aplicativo Android. | Python, FastAPI, scikit-learn, OpenCV/YOLO, Kotlin, Raspberry Pi |
-| [ReqAudit](https://github.com/VantuilPJr/ReqAudit) | Auditoria de requisitos, checklist de qualidade e acompanhamento de não conformidades com responsáveis, prazos e histórico. | React, TypeScript, Node.js, Express, SQLite |
-| [AcquaGuard](https://github.com/VantuilPJr/AcquaGuard) | Automação de aquários com controle de relés, monitoramento de temperatura, pH e corrente e painel local. | C++/Arduino, ESP32, sensores, interface web, Firebase |
-| [Dungeons & Cats](https://github.com/VantuilPJr/Dugeons-Cats) | Jogo 2D que aplica grafos, pilhas, filas e listas encadeadas à geração de mapas e às mecânicas de jogo. | C++17, raylib, CMake |
-| [Gestão Escolar](https://github.com/VantuilPJr/gestaoEscolar) | Aplicação desktop para cadastro escolar, frequência, notas e gráficos de desempenho. | Python, Tkinter, Matplotlib, JSON |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+[![CrySense — IA e IoT. Python, Kotlin e Raspberry Pi.](assets/crysense.png)](https://github.com/VantuilPJr/CrySense)
+
+Protótipo de monitoramento infantil com classificação experimental de áudio, sensores, vídeo e aplicativo Android. Integra software, aprendizado de máquina e hardware; não é um dispositivo de diagnóstico médico.
+
+**[Explorar o projeto →](https://github.com/VantuilPJr/CrySense)**
+
+</td>
+<td width="50%" valign="top">
+
+[![ReqAudit — aplicação web. React, TypeScript, Express e SQLite.](assets/reqaudit.png)](https://github.com/VantuilPJr/ReqAudit)
+
+Aplicação para auditoria de requisitos e acompanhamento de não conformidades, com checklist, perfis de acesso, responsáveis, prazos e histórico.
+
+**[Repositório →](https://github.com/VantuilPJr/ReqAudit)** · **[Demonstração →](https://req-audit.vercel.app)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[![AcquaGuard — sistemas embarcados. ESP32, C++, sensores e web.](assets/acquaguard.png)](https://github.com/VantuilPJr/AcquaGuard)
+
+Automação de aquários com seis relés, monitoramento de temperatura e pH, estimativas de consumo, regras de controle e painel web local.
+
+**[Explorar o projeto →](https://github.com/VantuilPJr/AcquaGuard)**
+
+</td>
+<td width="50%" valign="top">
+
+[![Dungeons & Cats — algoritmos e jogos. C++17, raylib e CMake.](assets/dungeons-cats.png)](https://github.com/VantuilPJr/Dugeons-Cats)
+
+Jogo 2D que aplica grafos, pilhas, filas e listas encadeadas à geração de mapas, à navegação e ao inventário.
+
+**[Explorar o projeto →](https://github.com/VantuilPJr/Dugeons-Cats)**
+
+</td>
+</tr>
+</table>
+
+## Tecnologias e áreas de atuação
+
+| Área | Tecnologias utilizadas nos projetos |
+| :--- | :--- |
+| **Web e APIs** | TypeScript, JavaScript, React, Next.js, NestJS, Express, PHP |
+| **Dados e nuvem** | PostgreSQL, Prisma, SQLite, MySQL, Neon, Google Cloud Run, Cloudflare |
+| **IA aplicada** | Python, OpenAI API, scikit-learn, FastAPI, OpenCV/YOLO, Edge Impulse |
+| **Mobile e embarcados** | Kotlin, Jetpack Compose, C++, Arduino, ESP32, Raspberry Pi |
 
 ### Outros projetos
 
-- [CrySenseAI — implementação ESP32](https://github.com/VantuilPJr/CrySenseAI): firmware, painel React e classificação remota de áudio.
-- [Plataforma de Apoio Escolar](https://github.com/VantuilPJr/plataforma_apoio_escolar): aplicação acadêmica em PHP/MySQL para alunos, professores e organizações.
-- [Voilà Voyages](https://github.com/VantuilPJr/agenciaViagens): projeto acadêmico de interface para uma agência de viagens fictícia.
+| Projeto | O que construí |
+| :--- | :--- |
+| [**Gestão Escolar**](https://github.com/VantuilPJr/gestaoEscolar) | Aplicação desktop em Python/Tkinter para alunos, turmas, frequência, notas e gráficos. |
+| [**CrySenseAI**](https://github.com/VantuilPJr/CrySenseAI) | Implementação ESP32 do protótipo CrySense, com firmware, painel React e componentes Python. |
+| [**Plataforma de Apoio Escolar**](https://github.com/VantuilPJr/plataforma_apoio_escolar) | Projeto acadêmico em PHP/MySQL para alunos, professores e organizações. |
+| [**Voilà Voyages**](https://github.com/VantuilPJr/agenciaViagens) | Interface acadêmica em HTML, CSS e JavaScript para uma agência de viagens fictícia. |
 
 ## Como trabalho
 
-Busco entender o processo antes de implementar, documentar as decisões e validar os fluxos que importam para quem usa o produto. Uso IA como apoio ao desenvolvimento, à investigação e à revisão, com atenção às limitações e à verificação do resultado.
+Parto do problema de quem usa o sistema e busco entregar um fluxo completo, com atenção à experiência, às regras do negócio e à manutenção. Uso IA como apoio ao desenvolvimento, à investigação e à revisão, verificando os resultados antes de incorporá-los ao produto.
 
-Nos projetos públicos, os READMEs apresentam objetivo, tecnologias, execução e estado atual. Nos produtos comerciais, preservo código, credenciais e dados privados. O histórico registra a evolução real do trabalho, sem commits artificiais ou reescrita para simular atividade.
+Os repositórios públicos documentam objetivo, tecnologias, execução e limitações de cada projeto. Produtos comerciais, credenciais e dados privados permanecem separados do portfólio público.
 
 ## English summary
 
-I build full-stack applications and explore applied AI, Android and embedded systems. My main project is **FYORA**, a proprietary scheduling SaaS that I developed from product conception to deployment, including a mobile-first interface, APIs, PostgreSQL, payment integration and cloud operations.
+I build **full-stack products** and explore applied AI, Android and embedded systems. My main project is **FYORA**, a proprietary scheduling SaaS that I developed from product conception to deployment, including a mobile-first interface, APIs, PostgreSQL, payment integration and cloud operations.
 
-FYORA's link-based MVP is live. AI-assisted WhatsApp service is a separate development effort and is not yet generally available. Its source code is private. My public repositories cover audio classification, computer vision, requirements auditing, aquarium automation and C++ data structures applied to a game.
+FYORA’s link-based MVP is live. AI-assisted WhatsApp service is being developed separately and is not yet generally available. **Its source code remains private.** My public projects cover audio classification, computer vision, requirements auditing, aquarium automation and C++ data structures applied to a game.
+
+---
+
+[**Todos os repositórios públicos**](https://github.com/VantuilPJr?tab=repositories) · [**Conheça a FYORA**](https://usefyora.com)
